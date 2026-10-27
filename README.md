@@ -1,8 +1,25 @@
-# 👨‍💻 Sayyam Nilesh Jain
+<h1 align="center">👨‍💻 Sayyam Nilesh Jain</h1>
 
-### Computer Engineering Student | Web Developer | Data Analytics | AI & Problem Solving
+<h3 align="center">
+  Computer Engineering Student | Full-Stack Developer |
+  AI & Data Analytics
+</h3>
 
-📍 Shirpur, Maharashtra, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer;Hackathon+Builder;Turning+Ideas+Into+Solutions"
+  alt="Animated typing text" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sayyamjain2520-jpg">
+    <img src="https://img.shields.io/badge/GITHUB-SAYYAMJAIN2520--JPG-181717?style=for-the-badge&logo=github"
+    alt="GitHub Profile" />
+  </a>
+  <a href="mailto:sayyamjain2520@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email" />
+  </a>
+</p>
 
 ---
 
